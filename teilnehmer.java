@@ -1,15 +1,3 @@
-##tdsadasd
-dsa
-dsa
-dsa
-dsa
-ds
-dsa
-sd
-sddsdsa
-d
-sad
-as
-dsasasa
-das
-ds
+public static void main(String[] args) {
+  System.out.println("Sirexeris ist doof");
+}
